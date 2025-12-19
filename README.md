@@ -67,7 +67,7 @@ Net list and Run in the simulation window to start the Simulation.
 When simulation finishes, the transient automatically will be popped up along file. 
 
 ## WAVEFORM:
-<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/516bb46a-a930-45a9-9000-cf2ff19977f1" />
+<img width="1128" height="660" alt="image" src="https://github.com/user-attachments/assets/676b219f-ce57-4f3f-823e-7e4c1df4d8ed" />
 
 ## RESULT :
 CMOS NAND gate designed and verified using transient and OP analysis.
